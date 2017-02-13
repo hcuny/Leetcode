@@ -1,14 +1,14 @@
 /**
- * µºÓìÖÜ³¤
+ * å²›å±¿å‘¨é•¿
  * Created by tianning.htn 2017/2/13
  */
 public class IslandPerimeter {
 
     /**
-     * ¼ÆËãÖÜ³¤
-     * ÓĞ1ÖÜ³¤¾Í+4£¬ÓĞÏàÁÚ¾Í-2
-     * @param ¶şÎ¬Êı×é
-     * @return ÖÜ³¤
+     * è®¡ç®—å‘¨é•¿
+     * æœ‰1å‘¨é•¿å°±+4ï¼Œæœ‰ç›¸é‚»å°±-2
+     * @param äºŒç»´æ•°ç»„
+     * @return å‘¨é•¿
      */
     public static String getPerimeter(int[][] grid) {
         int perimeter = 0;
