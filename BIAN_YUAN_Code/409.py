@@ -7,7 +7,7 @@ class Solution(object):
         :rtype: int
         """
     
-        dic_count={}
+        dic_count={}  #dictionary of key-value pair: (Letter, Frequency)
         for i in range(len(s)):
             if s[i] in dic_count:
                 dic_count[s[i]]+=1
@@ -16,8 +16,8 @@ class Solution(object):
     
         valuelist=dic_count.values()
     
-        even_list = [ele for ele in valuelist if ele%2==0]
-        odd_list  = [ele for ele in valuelist if ele%2!=0]
+        even_list = [ele for ele in valuelist if ele%2==0] #freqency of letters that appeared even times
+        odd_list  = [ele for ele in valuelist if ele%2!=0] # ...
     
         if len(odd_list)==0:
             return sum(even_list)
