@@ -1,5 +1,5 @@
 /**
- * 字符反转
+ * 脳脰路没路麓脳陋
  * Created by tianning.htn 2017/2/13
  */
 public class reverseString {
