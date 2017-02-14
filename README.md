@@ -1,11 +1,5 @@
 1-2 exercise / day, Cunyuan && Brother BIAN. Optimize solutions frequently. Multiple Languages-- Java/Python/JavaScript.
 
-### Number 344.  
-https://leetcode.com/problems/reverse-string/
-
-Write a function that takes a string as input and returns the string reversed.
-Example: Given s = "hello", return "olleh".
-
 ### Number 463.
 https://leetcode.com/problems/island-perimeter/
 
@@ -17,6 +11,17 @@ https://leetcode.com/problems/longest-palindrome/
 Given a string which consists of lowercase or uppercase letters, find the length of the longest palindromes that can be built with those letters.
 This is case sensitive, for example "Aa" is not considered a palindrome here.
 
+### Number 345.  
+https://leetcode.com/problems/reverse-vowels-of-a-string/
+
+Write a function that takes a string as input and reverse only the vowels of a string.
+
+### Number 344.  
+https://leetcode.com/problems/reverse-string/
+
+Write a function that takes a string as input and returns the string reversed.
+Example: Given s = "hello", return "olleh".
+
 ### Number 38.
 https://leetcode.com/problems/count-and-say/
 
@@ -26,3 +31,4 @@ The count-and-say sequence is the sequence of integers beginning as follows:
 11 is read off as "two 1s" or 21.
 21 is read off as "one 2, then one 1" or 1211.
 Given an integer n, generate the nth sequence.
+
