@@ -32,3 +32,4 @@ The count-and-say sequence is the sequence of integers beginning as follows:
 21 is read off as "one 2, then one 1" or 1211.
 Given an integer n, generate the nth sequence.
 
+### Number 345.
