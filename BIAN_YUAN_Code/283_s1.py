@@ -1,3 +1,4 @@
+# Constantly swap 0 to the end, and move remaining elements 1 position forward. 
 def moveZeroes(nums):
     """
     :type nums: List[int]
