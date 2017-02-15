@@ -7,4 +7,14 @@
 | 345 | Reverse-Vowels | [Link](https://leetcode.com/problems/reverse-vowels-of-a-string/) | py, java | E | String | 2/12-2/19 |
 | 344 | Reverse String | [Link](https://leetcode.com/problems/reverse-string/) | py, java | E | String | 2/12-2/19 |
 | 38 | Count & Say | [Link](https://leetcode.com/problems/count-and-say/) | py, java | E | String | 2/12-2/19 |
+| 231 | Power of 2 | [Link](https://leetcode.com/problems/power-of-two/) | py, java | E | Math, Bit | 2/12-2/19 |
+| 283 | Move 0s | [Link](https://leetcode.com/problems/move-zeroes/) | py, java | E | Array, Pointer | 2/12-2/19 |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
 
