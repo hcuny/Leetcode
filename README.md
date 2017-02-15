@@ -1,22 +1,6 @@
 1-2 exercise / day, Cunyuan && Brother BIAN. Optimize solutions frequently. Multiple Languages-- Java/Python/JavaScript.
 
 
-### Number 409.
-https://leetcode.com/problems/longest-palindrome/
-
-Given a string which consists of lowercase or uppercase letters, find the length of the longest palindromes that can be built with those letters.
-This is case sensitive, for example "Aa" is not considered a palindrome here.
-
-### Number 345.  
-https://leetcode.com/problems/reverse-vowels-of-a-string/
-
-Write a function that takes a string as input and reverse only the vowels of a string.
-
-### Number 344.  
-https://leetcode.com/problems/reverse-string/
-
-Write a function that takes a string as input and returns the string reversed.
-Example: Given s = "hello", return "olleh".
 
 ### Number 38.
 https://leetcode.com/problems/count-and-say/
@@ -39,9 +23,12 @@ Given s = "leetcode", return "leotcede".
 
 
 
-| Number | Title | Description(Link) | Language | Difficulty | Type | Week |
+| Number | Title | Description | Language | Difficulty | Type | Week |
 | --- | --- | --- | --- | --- | --- | --- |
 | 463 | Island Perimeter | [Link](https://leetcode.com/problems/island-perimeter/) | py, java | E | Composite | 2/12-2/19 |
-| 409 | Longest Palindrome | [Link](https://leetcode.com/problems/longest-palindrome/) | py, java | E | Composite | 2/12-2/19 |
+| 409 | Longest Palindrome | [Link](https://leetcode.com/problems/longest-palindrome/) | py, java | E | String | 2/12-2/19 |
+| 345 | Reverse-Vowels | [Link](https://leetcode.com/problems/reverse-vowels-of-a-string/) | py, java | E | String | 2/12-2/19 |
+| 344 | Reverse String | [Link](https://leetcode.com/problems/reverse-string/) | py, java | E | String | 2/12-2/19 |
+| 38 | Count & Say | [Link](https://leetcode.com/problems/count-and-say/) | py, java | E | String | 2/12-2/19 |
 
 [I'm an inline-style link](https://www.google.com)
