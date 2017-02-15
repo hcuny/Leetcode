@@ -7,7 +7,6 @@ class Solution(object):
         #histlst=[]
         while j<leng:
             #currentlst=nums[i:j]
-    
             temp=summ+nums[j]
 
             if temp<nums[j]:
@@ -19,7 +18,6 @@ class Solution(object):
                 summ=temp
                 j+=1
                 #currentlst=nums[i:j]
-                
             if summ>histmax:
                 histmax=summ
                 #histlst=currentlst
