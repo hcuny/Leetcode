@@ -33,3 +33,10 @@ The count-and-say sequence is the sequence of integers beginning as follows:
 Given an integer n, generate the nth sequence.
 
 ### Number 345.
+https://leetcode.com/problems/reverse-vowels-of-a-string/
+
+Write a function that takes a string as input and reverse only the vowels of a string.
+Example 1:
+Given s = "hello", return "holle".
+Example 2:
+Given s = "leetcode", return "leotcede".
