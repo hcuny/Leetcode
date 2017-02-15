@@ -43,9 +43,9 @@ Given s = "leetcode", return "leotcede".
 
 
 
-| Number | Title | Description(Link) | Language | Week |
-| --- | --- | --- | --- | --- |
-| 463 | --- | [Link](https://leetcode.com/problems/island-perimeter/) | --- | --- |
+| Number | Title | Description(Link) | Language | Difficulty | Week |
+| --- | --- | --- | --- | --- | --- |
+| 463 | IslandPerimeter | [Link](https://leetcode.com/problems/island-perimeter/) | py,java | E | 1 |
 
 
 [I'm an inline-style link](https://www.google.com)
