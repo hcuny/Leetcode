@@ -45,8 +45,7 @@ Given s = "leetcode", return "leotcede".
 
 | Number | Title | Description(Link) | Language | Week |
 | 463 | --- | [Link](https://leetcode.com/problems/island-perimeter/) | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+
 
 [I'm an inline-style link](https://www.google.com)
 
