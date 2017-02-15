@@ -1,9 +1,5 @@
 1-2 exercise / day, Cunyuan && Brother BIAN. Optimize solutions frequently. Multiple Languages-- Java/Python/JavaScript.
 
-### Number 463.
-https://leetcode.com/problems/island-perimeter/
-
-You are given a map in form of a two-dimensional integer grid where 1 represents land and 0 represents water. Grid cells are connected horizontally/vertically (not diagonally). The grid is completely surrounded by water, and there is exactly one island (i.e., one or more connected land cells). The island doesn't have "lakes" (water inside that isn't connected to the water around the island). One cell is a square with side length 1. The grid is rectangular, width and height don't exceed 100. Determine the perimeter of the island.
 
 ### Number 409.
 https://leetcode.com/problems/longest-palindrome/
@@ -46,7 +42,6 @@ Given s = "leetcode", return "leotcede".
 | Number | Title | Description(Link) | Language | Difficulty | Type | Week |
 | --- | --- | --- | --- | --- | --- | --- |
 | 463 | Island Perimeter | [Link](https://leetcode.com/problems/island-perimeter/) | py, java | E | Composite | 2/12-2/19 |
-
+| 409 | Longest Palindrome | [Link](https://leetcode.com/problems/longest-palindrome/) | py, java | E | Composite | 2/12-2/19 |
 
 [I'm an inline-style link](https://www.google.com)
-
