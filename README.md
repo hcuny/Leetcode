@@ -40,3 +40,10 @@ Example 1:
 Given s = "hello", return "holle".
 Example 2:
 Given s = "leetcode", return "leotcede".
+
+
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
