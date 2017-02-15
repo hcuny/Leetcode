@@ -7,11 +7,11 @@ class Solution(object):
         if n<=0:
             return False
         while n>1:
-            if n!=int(n):
+            if n!=int(n):  # if n is float, false
                 return False
             
             else:
-                n=n/(2*1.0)
+                n=n/(2*1.0) # version issue, force it to return float
                 
         return True
             
