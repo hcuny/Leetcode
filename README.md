@@ -1,5 +1,7 @@
-1-2 exercise / day, **Cunyuan && Brother BIAN**. <br>
-Optimize solutions frequently. Multiple Languages-- Java/Python/JavaScript.
+**Author**: **Cunyuan && Brother BIAN**. <br>
+1-2 exercise / day, starting from Feb 2017.<br>
+Optimize solutions frequently. 
+Multiple Languages -- Java/Python/JavaScript.
 
 | Number | Title | Details | Language | Difficulty | Type | Week |
 | --- | --- | --- | --- | --- | --- | --- |
