@@ -12,7 +12,7 @@ Multiple Languages -- Java/Python/JavaScript, optimizing solutions frequently. <
 | 231 | Power of 2 | [Link](https://leetcode.com/problems/power-of-two/) | py, java | E | Math, Bit | 2/12-2/19 |
 | 283 | Move 0s | [Link](https://leetcode.com/problems/move-zeroes/) | py, java | E | Array, Pointer | 2/12-2/19 |
 | 263 | Ugly Number | [link](https://leetcode.com/problems/ugly-number/) | py, java | E | Math | 2/12-2/19 |
-| 53 | Max Subarray | [link](https://leetcode.com/problems/maximum-subarray/) | py, java | E | DP, Array, Pointer,<br> Devide & Conquer | 2/12-2/19 |
+| 53 | Max Subarray | [link](https://leetcode.com/problems/maximum-subarray/) | py, java | E | DP, Array, Pointer,<br> Divide & Conquer | 2/12-2/19 |
 | --- | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- |
