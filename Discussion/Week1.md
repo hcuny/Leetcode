@@ -7,7 +7,9 @@ re.findall(re,string) return list<br>
 re.sub substitution<br>
 s.find() return index, -1 if not exist<br>
 
-Most impressive Bian's solution:
+Most impressive Bian's solution:<br>
+283.Move 0s
+
 
 
 Next week: <br>
