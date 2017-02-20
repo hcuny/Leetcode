@@ -14,8 +14,9 @@ Multiple Languages -- Java/Python/JavaScript, optimizing solutions frequently. <
 | 263 | Ugly Number | [Link](https://leetcode.com/problems/ugly-number/) | py, java | E | Math | 2/12-2/19 |
 | 53 | Max Subarray | [Link](https://leetcode.com/problems/maximum-subarray/) | py, java | E | DP, Array, Pointer,<br> Divide & Conquer | 2/12-2/19 |
 | 389 | Find Difference | [Link](https://leetcode.com/problems/find-the-difference/) | py, java | E | String | 2/12-2/19 |
-| 392 | Is Subsequence | [Link](https://leetcode.com/problems/is-subsequence/) | --- | M | --- | 2/12-2/19 |
-| --- | --- | --- | --- | --- | --- | --- |
+| 392 | Is Subsequence | [Link](https://leetcode.com/problems/is-subsequence/) | py, java | M | --- | 2/12-2/19 |
+| 300 | Longest Increasing Subseq | [Link](https://leetcode.com/problems/longest-increasing-subsequence/?tab=Description) | py, java | M | DP | 2/20-2/27 |
+
 | --- | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- |
