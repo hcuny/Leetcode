@@ -1,3 +1,4 @@
+#Sub-problem of this simple DP: unique path of every entry(i,j) d[i][j]=d[i-1][j]+d[i][j-1]
 class Solution(object):
     def uniquePaths(self, m, n):
         """
