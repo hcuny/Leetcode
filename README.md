@@ -17,7 +17,7 @@ Multiple Languages -- Java/Python/JavaScript, optimizing solutions frequently. <
 | 392 | Is Subsequence | [Link](https://leetcode.com/problems/is-subsequence/) | py, java | M | --- | 2/12-2/19 |
 | 300 | Longest Increasing Subseq | [Link](https://leetcode.com/problems/longest-increasing-subsequence/?tab=Description) | py, java | M | DP | 2/20-2/27 |
 | 62 | Unique Paths | [Link](https://leetcode.com/problems/unique-paths/?tab=Description) | py, java | M | DP | 2/20-2/27 |
-| --- | --- | --- | --- | --- | --- | --- |
+| 486 | Predict Winner | [Link](https://leetcode.com/problems/predict-the-winner/?tab=Description) | --- | M | DP | 2/20-2/27 |
 | --- | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- |
