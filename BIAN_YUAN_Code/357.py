@@ -3,7 +3,7 @@ class Solution(object):
         """
         :type n: int
         :rtype: int
-        Devide: e.g. 0-1000,d[0]--repeat in [0,10), d[1]=d[0]+repeat in [10,100),  etc..
+        Devide: e.g. 0-1000,d[0]-->non-repeat in [0,10), d[1]=d[0]+ non-repeat in [10,100),  etc..
         """
         if n<=1:
             return 10**(n)
