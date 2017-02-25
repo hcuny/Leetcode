@@ -4,6 +4,7 @@ class Solution(object):
         :type n: int
         :rtype: int
         Devide: e.g. 0-1000,d[0]-->non-repeat in [0,10), d[1]=d[0]+ non-repeat in [10,100),  etc..
+        In fact it's O(1) time complexity
         """
         if n<=1:
             return 10**(n)
