@@ -19,7 +19,7 @@ Multiple Languages -- Java/Python/JavaScript, optimizing solutions frequently. <
 | 62 | Unique Paths | [Link](https://leetcode.com/problems/unique-paths/?tab=Description) | py, java | M | DP | 2/20-2/27 |
 | 486 | Predict Winner | [Link](https://leetcode.com/problems/predict-the-winner/?tab=Description) | --- | M | DP | 2/20-2/27 |
 | 485 | Consecutive 1s | [Link](https://leetcode.com/problems/max-consecutive-ones/?tab=Description) | py, java | E | Array, DP | 2/20-2/27 |
-| 357 | Unique Digit | [Link](https://leetcode.com/problems/count-numbers-with-unique-digits/?tab=Description) | py, java | M | Math, DP | 2/20-2/27 |
+| 357 | Number-Unique Digit | [Link](https://leetcode.com/problems/count-numbers-with-unique-digits/?tab=Description) | py, java | M | Math, DP | 2/20-2/27 |
 | --- | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- |
