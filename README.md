@@ -2,7 +2,7 @@ Author: **Cunyuan && Brother BIAN**. <br>
 1-2 exercise / day, starting from Feb 2017.<br>
 Multiple Languages -- Java/Python/JavaScript, optimizing solutions frequently. <br>
 
-| Number | Title | Details | Language | Difficulty | Type | Week |
+| No. | Title | Details | Language | Difficulty | Type | Week |
 | --- | --- | --- | --- | --- | --- | --- |
 | 463 | Island Perimeter | [Link](https://leetcode.com/problems/island-perimeter/) | py, java | E | Hash Table | 2/12-2/19 |
 | 409 | Longest Palindrome | [Link](https://leetcode.com/problems/longest-palindrome/) | py, java | E | String | 2/12-2/19 |
@@ -19,7 +19,7 @@ Multiple Languages -- Java/Python/JavaScript, optimizing solutions frequently. <
 | 62 | Unique Paths | [Link](https://leetcode.com/problems/unique-paths/?tab=Description) | py, java | M | DP | 2/20-2/27 |
 | 486 | Predict Winner | [Link](https://leetcode.com/problems/predict-the-winner/?tab=Description) | --- | M | DP | 2/20-2/27 |
 | 485 | Consecutive 1s | [Link](https://leetcode.com/problems/max-consecutive-ones/?tab=Description) | py, java | E | Array, DP | 2/20-2/27 |
-| --- | --- | --- | --- | --- | --- | --- |
+| 357 | Unique Digit | [Link](https://leetcode.com/problems/count-numbers-with-unique-digits/?tab=Description) | py, java | M | Math, DP | 2/20-2/27 |
 | --- | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- |
