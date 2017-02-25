@@ -7,7 +7,8 @@ class Solution(object):
         """
         if n<=1:
             return 10**(n)
-            
+        if n>10:
+            return 0
         d=[None]*(n+1)
         
         d[0]=10
