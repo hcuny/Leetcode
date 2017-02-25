@@ -10,7 +10,7 @@ class Solution(object):
         Step3: [1, 6, 2], memoset=(7+2,7-2,5+2,5-2)=(9,5,7,3)
         Step4: Check 3 in (9,5,7,3), return True, in fact any number in (9,5,7,3) as the last number is fine.
         
-        **Unique thinking but Not very good performance in computation
+        **Unique thinking, simple implementation but Not very good performance in computation
         """
         if len(nums)==1:
             return False
