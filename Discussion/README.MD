@@ -1,1 +1,1 @@
-Weekly discussion logs.
+Weekly discussion
