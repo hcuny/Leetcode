@@ -22,6 +22,6 @@ Multiple Languages -- Java/Python/JavaScript, optimizing solutions frequently. <
 | 357 | Number-Unique Digit | [Link](https://leetcode.com/problems/count-numbers-with-unique-digits/?tab=Description) | py, java | M | Math, DP | 2/20-2/27 |
 | 416 | Partition Equal Sum | [Link](https://leetcode.com/problems/partition-equal-subset-sum/?tab=Description) | py, java | M | DP | 2/20-2/27 |
 | 455 | Assign Cookies | [Link](https://leetcode.com/problems/assign-cookies/?tab=Description) | py, java | E | Greedy | 2/20-2/27 |
-| --- | --- | --- | --- | --- | --- | --- |
+| 435 | NonOverlapping Intv | [Link](https://leetcode.com/problems/non-overlapping-intervals/?tab=Description) | py, java | M | Greedy | 2/20-2/27 |
 | --- | --- | --- | --- | --- | --- | --- |
 
