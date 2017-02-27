@@ -1,4 +1,11 @@
-Knapsack Problem: [Link](http://love-oriented.com/pack/Index.html)
+## Some Updates HCUNY
+1. DP problem: how to find subproblem -- always think about constructing cache and use this property.
+   May looks like: 
+  - substring (ended by sequence of index)
+  - sub-Strategy may create an 2D array
+  - do not need to memo all cache from time to time
+
+2. Knapsack Problem: [Link](http://love-oriented.com/pack/Index.html)
 
 
 ----------
