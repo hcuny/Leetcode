@@ -24,4 +24,11 @@ Multiple Languages -- Java/Python/JavaScript, optimizing solutions frequently. <
 | 455 | Assign Cookies | [Link](https://leetcode.com/problems/assign-cookies/?tab=Description) | py, java | E | Greedy | 2/20-2/27 |
 | 435 | NonOverlapping Intv | [Link](https://leetcode.com/problems/non-overlapping-intervals/?tab=Description) | py, java | M | Greedy | 2/20-2/27 |
 | --- | --- | --- | --- | --- | --- | --- |
-
+| --- | --- | --- | --- | --- | --- | --- |
+| 367 | valid Square | [Link](https://leetcode.com/problems/valid-perfect-square/?tab=Description) | py, java | E | B-search | 2/28-3/04 |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
