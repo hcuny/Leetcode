@@ -26,7 +26,7 @@ Multiple Languages -- Java/Python/JavaScript, optimizing solutions frequently. <
 | --- | --- | --- | --- | --- | --- | --- |
 | 179 | Largest Number | [Link](https://leetcode.com/problems/largest-number/?tab=Description) | py, java | M | Sort | 2/28-3/04 |
 | 367 | valid Square | [Link](https://leetcode.com/problems/valid-perfect-square/?tab=Description) | py, java | E | B-search | 2/28-3/04 |
-| --- | --- | --- | --- | --- | --- | --- |
+| 279 | Perfect Squares | [Link](https://leetcode.com/problems/perfect-squares/?tab=Description) | py, java | M | DP | 2/28-3/04 |
 | --- | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- |
