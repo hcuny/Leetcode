@@ -1,5 +1,5 @@
 Author: **Cunyuan && Brother BIAN**. <br>
-1-2 exercise / day, starting from Feb 2017.<br>
+0-2 exercise / day, starting from Feb 2017.<br>
 Multiple Languages -- Java/Python/JavaScript, optimizing solutions frequently. <br>
 
 | No. | Title | Details | Language | Difficulty | Type | Week |
