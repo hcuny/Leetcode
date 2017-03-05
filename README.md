@@ -23,7 +23,7 @@ Multiple Languages -- Java/Python/JavaScript, optimizing solutions frequently. <
 | 416 | Partition Equal Sum | [Link](https://leetcode.com/problems/partition-equal-subset-sum/?tab=Description) | py, java | M | DP | 2/20-2/27 |
 | 455 | Assign Cookies | [Link](https://leetcode.com/problems/assign-cookies/?tab=Description) | py, java | E | Greedy | 2/20-2/27 |
 | 435 | NonOverlapping Intv | [Link](https://leetcode.com/problems/non-overlapping-intervals/?tab=Description) | py, java | M | Greedy | 2/20-2/27 |
-| --- | --- | --- | --- | --- | --- | --- |
+| 147 | Insertion Sort List | [Link](https://leetcode.com/problems/insertion-sort-list/?tab=Description) | java | M | Sort | 2/28-3/04 |
 | 179 | Largest Number | [Link](https://leetcode.com/problems/largest-number/?tab=Description) | py, java | M | Sort | 2/28-3/04 |
 | 367 | valid Square | [Link](https://leetcode.com/problems/valid-perfect-square/?tab=Description) | py, java | E | B-search | 2/28-3/04 |
 | 279 | Perfect Squares | [Link](https://leetcode.com/problems/perfect-squares/?tab=Description) | py, java | M | DP | 2/28-3/04 |
