@@ -15,7 +15,7 @@ public class Maths {
 		for (int i = 0; i < nums.length; i++) {
 			str_nums[i] = String.valueOf(nums[i]);
 		}
-		//重写比较器，String的compareTo方法比较每个char的大小
+		//重写比较器，String的compareTo方法其实就是遍历、比较每个char的大小
 		Comparator<String> comp = new Comparator<String>() {
 
 			@Override

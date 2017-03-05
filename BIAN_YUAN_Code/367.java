@@ -7,9 +7,9 @@
 public class Maths {
 	
 	/**
-	 * 牛顿迭代法
+	 * 牛顿迭代法  y=x^2 + a  y' = 2x   y/(x-x0)=2x得出x0的迭代式：x0 = （x^2+a）/2x
 	 * 
-	 * @param s
+	 * @param n          a==n    
 	 * @return
 	 */
 	 public boolean isPerfectSquare(int n) {
