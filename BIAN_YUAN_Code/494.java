@@ -19,8 +19,9 @@ public class Maths {
     }
 	/**
 	 * 
-	 * 变种01背包：没有cost，如果把元素值看做v，变量只有 v 和 V。V倒叙遍历理由和01问题一致。
-	 * 如果dp[] 指前i个元素的总和，为什么d[0] = 1 ？
+	 * 变种01背包
+	 * dp[] 指前i个元素的总和为 s 时的组合数。
+	 * d[0] = 1 意思是所有元素都不取。
 	 * 类似问题NO.416
 	 */
     public static int subsetSum(int[] nums, int s) {
